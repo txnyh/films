@@ -1,0 +1,58 @@
+[
+    {
+        "id": "DIR-001",
+        "name": "Francis Ford Coppola",
+        "birthDate": "1939-04-07",
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-002",
+        "name": "Stanley Kubrick",
+        "birthDate": "1928-07-26",
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-003",
+        "name": "Martin Scorsese",
+        "birthDate": "1942-11-17",
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-004",
+        "name": "Gaspar Noé",
+        "birthDate": "1963-12-27",
+        "nationality": "Argentinian",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-005",
+        "name": "Paul Thomas Anderson",
+        "birthDate": "1970-06-26",
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-006",
+        "name": "Lars von Trier",
+        "birthDate": "1956-04-30",
+        "nationality": "Danish",
+        "isActive": true,
+        "imageUrl": ""
+    },
+    {
+        "id": "DIR-007",
+        "name": "Sofia Coppola",
+        "birthDate": "1971-05-14",
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": ""
+    }
+]

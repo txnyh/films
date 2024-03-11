@@ -1,0 +1,193 @@
+[
+    {
+        "id": "FILM-001",
+        "title": "The Godfather",
+        "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "releaseYear": 1972,
+        "isReleased": true,
+        "duration": 175,
+        "posterUrl": "",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "directorId": "DIR-001"
+    },
+    {
+        "id": "FILM-002",
+        "title": "2001: A Space Odyssey",
+        "synopsis": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.",
+        "releaseYear": 1968,
+        "isReleased": true,
+        "duration": 149,
+        "posterUrl": "",
+        "genres": [
+            "Adventure",
+            "Science Fiction"
+        ],
+        "actors": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ],
+        "directorId": "DIR-002"
+    },
+    {
+        "id": "FILM-003",
+        "title": "A Clockwork Orange",
+        "synopsis": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "releaseYear": 1971,
+        "isReleased": true,
+        "duration": 136,
+        "posterUrl": "",
+        "genres": [
+            "Crime",
+            "Science Fiction"
+        ],
+        "actors": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates"
+        ],
+        "directorId": "DIR-002"
+    },
+    {
+        "id": "FILM-004",
+        "title": "There Will Be Blood",
+        "synopsis": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "releaseYear": 2007,
+        "isReleased": true,
+        "duration": 158,
+        "posterUrl": "",
+        "genres": [
+            "Drama"
+        ],
+        "actors": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Dillon Freasier"
+        ],
+        "directorId": "DIR-005"
+    },
+    {
+        "id": "FILM-005",
+        "title": "Irreversible",
+        "synopsis": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in an underpass tunnel.",
+        "releaseYear": 2002,
+        "isReleased": true,
+        "duration": 97,
+        "posterUrl": "",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "actors": [
+            "Monica Bellucci",
+            "Vincent Cassel",
+            "Albert Dupontel"
+        ],
+        "directorId": "DIR-004"
+    },
+    {
+        "id": "FILM-006",
+        "title": "Enter the Void",
+        "synopsis": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+        "releaseYear": 2009,
+        "isReleased": true,
+        "duration": 161,
+        "posterUrl": "",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "actors": [
+            "Nathaniel Brown",
+            "Paz de la Huerta",
+            "Cyril Roy"
+        ],
+        "directorId": "DIR-004"
+    },
+    {
+        "id": "FILM-007",
+        "title": "Taxi Driver",
+        "synopsis": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+        "releaseYear": 1976,
+        "isReleased": true,
+        "duration": 113,
+        "posterUrl": "",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "actors": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ],
+        "directorId": "DIR-003"
+    },
+    {
+        "id": "FILM-008",
+        "title": "Lost in Translation",
+        "synopsis": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+        "releaseYear": 2003,
+        "isReleased": true,
+        "duration": 102,
+        "posterUrl": "",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "actors": [
+            "Bill Murray",
+            "Scarlett Johansson",
+            "Giovanni Ribisi"
+        ],
+        "directorId": "DIR-007"
+    },
+    {
+        "id": "FILM-009",
+        "title": "Breaking the Waves",
+        "synopsis": "Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.",
+        "releaseYear": 1996,
+        "isReleased": true,
+        "duration": 159,
+        "posterUrl": "",
+        "genres": [
+            "Drama"
+        ],
+        "actors": [
+            "Emily Watson",
+            "Stellan Skarsgård",
+            "Katrin Cartlidge"
+        ],
+        "directorId": "DIR-006"
+    },
+    {
+        "id": "FILM-010",
+        "title": "Dancer in the Dark",
+        "synopsis": "An Eastern European US immigrant with a love for musicals has to cope with the gradual loss of her vision.",
+        "releaseYear": 2000,
+        "isReleased": true,
+        "duration": 140,
+        "posterUrl": "",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Musical"
+        ],
+        "actors": [
+            "Björk",
+            "Catherine Deneuve",
+            "David Morse"
+        ],
+        "directorId": "DIR-006"
+    }
+]
