@@ -6,7 +6,7 @@
         "releaseYear": 1972,
         "isReleased": true,
         "duration": 175,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/the-godfather-poster.jpeg",
         "genres": [
             "Crime",
             "Drama"
@@ -25,7 +25,7 @@
         "releaseYear": 1968,
         "isReleased": true,
         "duration": 149,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/2001-a-space-odyssey-poster.jpeg",
         "genres": [
             "Adventure",
             "Science Fiction"
@@ -44,7 +44,7 @@
         "releaseYear": 1971,
         "isReleased": true,
         "duration": 136,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/a-clockwork-orange-poster.jpeg",
         "genres": [
             "Crime",
             "Science Fiction"
@@ -63,7 +63,7 @@
         "releaseYear": 2007,
         "isReleased": true,
         "duration": 158,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/there-will-be-blood-poster.jpeg",
         "genres": [
             "Drama"
         ],
@@ -81,7 +81,7 @@
         "releaseYear": 2002,
         "isReleased": true,
         "duration": 97,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/irreversible-poster.jpeg",
         "genres": [
             "Crime",
             "Drama",
@@ -102,7 +102,7 @@
         "releaseYear": 2009,
         "isReleased": true,
         "duration": 161,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/enter-the-void-poster.jpeg",
         "genres": [
             "Drama",
             "Fantasy"
@@ -121,7 +121,7 @@
         "releaseYear": 1976,
         "isReleased": true,
         "duration": 113,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/taxi-driver-poster.jpeg",
         "genres": [
             "Crime",
             "Drama"
@@ -140,7 +140,7 @@
         "releaseYear": 2003,
         "isReleased": true,
         "duration": 102,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/lost-in-translation-poster.jpeg",
         "genres": [
             "Comedy",
             "Drama"
@@ -159,7 +159,7 @@
         "releaseYear": 1996,
         "isReleased": true,
         "duration": 159,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/breaking-the-waves-poster.jpeg",
         "genres": [
             "Drama"
         ],
@@ -177,7 +177,7 @@
         "releaseYear": 2000,
         "isReleased": true,
         "duration": 140,
-        "posterUrl": "",
+        "posterUrl": "https://raw.githubusercontent.com/txnyh/films/main/images/dancer-in-the-dark-poster.jpg",
         "genres": [
             "Crime",
             "Drama",
